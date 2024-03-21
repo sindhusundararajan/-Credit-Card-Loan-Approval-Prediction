@@ -1,6 +1,4 @@
 # Credit Card Loan Approval Prediction
-# Credit Data Analysis Project
-
 ## Overview
 This project involves conducting data cleaning, profiling, exploratory data analysis (EDA), and implementing an XGBoost model on credit data. Using Python, we aimed to identify patterns and trends within the dataset to gain valuable insights.
 
